@@ -1,6 +1,6 @@
 # Olá! Eu sou Eduardo Pereira da Silva 👋
 
-### 🚀 PMO de Tecnologia | Squad Líder | Líder de Projetos Sênior | Coordenador de Engenharia de Software | Especialista em Tecnologia da Informação
+### PMO de Tecnologia | Squad Líder | Líder de Projetos Sênior | Coordenador de Engenharia de Software | Especialista em Tecnologia da Informação
 
 Sou um profissional apaixonado por **Tecnologia** e **Liderança de Equipes** e acredito que a **Educação** é o combustível que faz com que uma nação consiga avançar. Sou formado em **Ciência da Computação**, com **MBA em Sistemas de Informação** e atualmente estou cursando uma nova pós-graduação em **Tech Management** e possuo diversos cursos de capacitação e aperfeiçoamento na área de TI. Sou um líder empático, transformacional e gosto de ajudar as pessoas, sou muito organizado e movido a planejamento, metas e desafios claros e mensuráveis.
 
