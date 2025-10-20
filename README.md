@@ -1,4 +1,4 @@
-# Olá! Eu sou Eduardo Pereira da Silva 👋
+# Olá! Eu sou Eduardo Pereira da Silva
 
 ### PMO de Tecnologia | Squad Líder | Líder de Projetos Sênior | Coordenador de Engenharia de Software | Especialista em Tecnologia da Informação
 
