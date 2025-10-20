@@ -39,4 +39,4 @@ Minha experiência inclui:
 
 ### ⭐ Meus Projetos em Destaque
 
-[Dasboard de Gerenciamento de proejtos *(https://github.com/edupereira027-maker/GerenciamentodeProjetos)*]
+Dashboard de Gerenciamento de projetos *(https://github.com/edupereira027-maker/GerenciamentodeProjetos)*
