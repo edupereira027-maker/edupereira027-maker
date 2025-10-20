@@ -23,7 +23,7 @@ Minha experiência inclui:
 | :--- | :--- |
 | **Gestão** | PMBOK, Agile, Scrum, Kanban|
 | **Análise** | Status Reports, Gestão de indicadores, Análise de Custos |
-| **Processos** | Melhoria Contínua, Migração, Sustentação e Implantação de Sistema |
+| **Processos** | Desenvolvimento de Software, Melhoria Contínua (PDCA), Migração, Sustentação e Implantação de Sistema |
 | **Conhecimentos**| Pacote Office Avançado, Jira, Confluence, Zoho Projects, Zoho Sprints, Trello, MS Project, Power BI, Microsoft SharePoint, VBA, SQL, SQL Server, Windows, Linux, CI/CD, Containers, Docker, Arquitetura Monolítica, Arquitetura de Microserviços|
 
 ---
