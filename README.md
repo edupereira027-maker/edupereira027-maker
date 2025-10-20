@@ -32,9 +32,8 @@ Minha experiência inclui:
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [Eduardo Pereira da Silva](https://www.linkedin.com/in/eduardo-pereira-118a6111/) |
-| **Portfólio (CV)** | [Visite meu CV Completo](https://edupereira027-maker.github.io/index.html) |
-
+| **LinkedIn** | <a href="https://www.linkedin.com/in/eduardo-pereira-118a6111/" target="_blank">Eduardo Pereira da Silva</a> |
+| **Portfólio (Website)** | <a href="https://edupereira027-maker.github.io" target="_blank">Visite meu Portfólio Completo</a> |
 ---
 
 ### ⭐ Meus Projetos em Destaque
