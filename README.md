@@ -30,11 +30,8 @@ Minha experiência inclui:
 
 ### 🌐 Conecte-se Comigo!
 
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | <a href="https://www.linkedin.com/in/eduardo-pereira-118a6111/" target="_blank">Eduardo Pereira da Silva</a> |
-| **Portfólio (Website)** | <a href="https://edupereira027-maker.github.io" target="_blank">Visite meu Portfólio Completo</a> |
----
+- **LinkedIn:** <a href="https://www.linkedin.com/in/eduardo-pereira-118a6111/" target="_blank">Eduardo Pereira da Silva</a>
+- **Portfólio (Website):** <a href="https://edupereira027-maker.github.io" target="_blank">Visite meu Portfólio Completo</a>
 
 ### ⭐ Meus Projetos em Destaque
 
