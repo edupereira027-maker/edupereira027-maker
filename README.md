@@ -33,7 +33,7 @@ Minha experiência inclui:
 | Plataforma | Link |
 | :--- | :--- |
 | **LinkedIn** | [Eduardo Pereira da Silva](https://www.linkedin.com/in/eduardo-pereira-118a6111/) |
-| **Portfólio (Website)** | [Visite meu Portfólio Completo](ESPERAR_PELO_PASSO_5_PARA_COLOCAR_O_LINK_AQUI) |
+| **Portfólio (Website)** | [Visite meu Portfólio Completo](https://edupereira027-maker.github.io/) |
 
 ---
 
