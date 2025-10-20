@@ -39,4 +39,5 @@ Minha experiência inclui:
 
 ### ⭐ Meus Projetos em Destaque
 
-[*(Você irá fixar projetos aqui depois de criá-los!)*](https://edupereira027-maker.github.io/)
+[*(https://github.com/edupereira027-maker/GerenciamentodeProjetos)*]
+[*(https://edupereira027-maker.github.io/)*]
